@@ -23,8 +23,6 @@ def find_commonly_used_words():
     print(sorted_words_dict)
 
 
-
-
 def scrape_website(url):
     html = urlopen(url).read().decode('utf-8')
     return html
