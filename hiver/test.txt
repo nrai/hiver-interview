@@ -1,0 +1,5 @@
+curl 'http://localhost:8000/o/token/' -H 'Accept: */*' -H 'Referer: http://django-oauth-toolkit.herokuapp.com/consumer/exchange/?code=QCNWDTuSyGECLVdpEhZPLzTMni7XuK&state=random_state_string' -H 'Origin: http://django-oauth-toolkit.herokuapp.com' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36' -H 'Authorization: Basic MjJ4OWMwc0RETTFnUFBwOWc4bXp6Tm9FQjV1NUtscVNQYWk5N0l1MzpWMEJ6ZXJTUHM5cGZ2Z1dBNkVqWmIwU3BpVWF4U1lNTTZrWUFUZk1wVkJEMGFDcVc5OEMzWTREdUJGNTBGM1o3QThGT0VFNTExZUU1Y3FDVUlRWjIxZ29pTGZkUVVnbXQwN0laVFNHclpvNnZJWTZZbVZYWGJHOUV1R29OcW1XSA==' -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' --data 'code=QCNWDTuSyGECLVdpEhZPLzTMni7XuK&redirect_uri=http%3A%2F%2Fdjango-oauth-toolkit.herokuapp.com%2Fconsumer%2Fexchange%2F&grant_type=authorization_code' --compressed
+
+
+
+https://drive.google.com/file/d/0B69J5kEBqcbvT2Q2N19jbWUzM1VxR0lMRmViTUFRYXVRZjVn/view?usp=sharing
